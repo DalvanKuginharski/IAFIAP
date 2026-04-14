@@ -110,7 +110,7 @@ fase2/
 Adicione aqui as capturas do Wokwi:
 
 ```md
-![Circuito completo](circuito-completo.PNG)
+![Circuito completo](images/circuito-completo.PNG)
 ![Leitura no serial](images/serial-monitor.png)
 ```
 
