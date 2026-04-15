@@ -110,8 +110,6 @@ fase2/
 Adicione aqui as capturas do Wokwi:
 
 ```md
-![Circuito completo](images/circuito-completo.PNG)
-![Leitura no serial](images/serial-monitor.png)
 https://wokwi.com/projects/461298028747489281 
 ```
 
@@ -132,7 +130,7 @@ https://wokwi.com/projects/461298028747489281
 Substitua abaixo pelo link do YouTube não listado:
 
 ```text
-https://youtube.com/seu-video-aqui
+(https://youtu.be/fL6zAvWu1iY)
 ```
 
 ## 10. Referências sugeridas para citar no relatório/README
