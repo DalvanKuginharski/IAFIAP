@@ -112,6 +112,7 @@ Adicione aqui as capturas do Wokwi:
 ```md
 ![Circuito completo](images/circuito-completo.PNG)
 ![Leitura no serial](images/serial-monitor.png)
+https://wokwi.com/projects/461298028747489281 
 ```
 
 ## 8. Roteiro sugerido do vídeo
